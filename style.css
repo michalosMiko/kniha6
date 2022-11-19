@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    
+    
+    background-color: black;
+}
+
+.nadpis {
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 4px 4px silver;
+    font weight 800;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+    margin-top: 300px;
+
+}
